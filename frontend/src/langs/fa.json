@@ -1,0 +1,153 @@
+{
+  "Header": {
+    "Company": "مهجو پرداز",
+    "Home": "خانه",
+    "Prices": "قیمت ها",
+    "Dashboard": "داشبورد",
+    "Login": "ورود"
+  },
+  "Home": {
+    "Title": "سامانه مدیریت مقالات پژوهشی",
+    "Subtitle": "با این سامانه بر روی برنامه های پژوهشی خود نظارت کامل داشته باشید",
+    "SignUp": "همین الان ثبت نام کنید"
+  },
+  "Dashboard": {
+    "Main": {
+      "Title": "داشبورد"
+    },
+    "Paper": {
+      "Title": "ویرایش مقاله",
+      "TitleNew": "تعریف مقاله جدید",
+      "ShortTitleNew": "مقاله جدید",
+      "RecentPapers": "مقالات اخیر",
+      "FullPaperListLink": "مشاهده لیست تمام مقالات",
+      "NoPaper": "هنوز مقاله ای تعریف نشده است!",
+      "PaperCode": "شناسه مقاله",
+      "PaperTitle": "عنوان مقاله",
+      "PaperKeywords": "کلید واژگان",
+      "PaperType": "نوع مقاله",
+      "Types": {
+        "domesticConf": "کنفرانس داخلی",
+        "foreignConf": "کنفرانس خارجی",
+        "domesticJour": "مجله داخلی",
+        "foreignJour": "مجله خارجی"
+      },
+      "PaperDescription": "توضیحات",
+      "Publisher": "مجله/کنفرانس",
+      "Status": "وضعیت",
+      "Date": "تاریخ",
+      "Info": "اطلاعات مقاله",
+      "Authors": "نویسندگان",
+      "AuthorsList": "اسامی نویسندگان مقاله",
+      "Search": "جستجو",
+      "SearchAuthors": "جستجو با نام یا ایمیل",
+      "History": "سوابق ارسال مقاله",
+      "SuccessAddPaper": "تعریف مقاله با موفقیت انجام شد.",
+      "ShowPaperLink": "مشاهده مقاله",
+      "SuccessEditPaper": "ویرایش مقاله با موفقیت انجام شد."
+    },
+    "PapersList": {
+      "Title": "لیست مقالات"
+    }
+  },
+  "Profile": {
+    "Edit": "ویرایش حساب کاربری",
+    "ChangePass": "تغییر کلمه عبور",
+    "Upgrade" : "ارتقای نوع حساب",
+    "NewPass": "کلمه عبور جدید",
+    "RepeatNewPass": "تکرار کلمه عبور جدید",
+    "OldPass": "کلمه عبور فعلی"
+  },
+  "Action": {
+    "Add": "افزودن",
+    "Edit": "ویرایش",
+    "New": "جدید",
+    "Selected": "مورد انتخاب شده",
+    "Cancel": "انصراف",
+    "Save": "ذخیره",
+    "LoadingData": "در حال دریافت داده ها..."
+  },
+  "Login": {
+    "Title": "ورود به سامانه",
+    "Email": "پست الکترونیکی",
+    "Password": "کلمه عبور",
+    "LoginButton": "ورود",
+    "Remember": "مرا به خاطر بسپار",
+    "SignUp": "حساب کاربری ندارم؛ ثبت نام می کنم",
+    "ResetPassword": "کلمه عبور خود را فراموش کرده ام!",
+    "AuthError": "پست الکترونیکی یا کلمه عبور صحیح نیست؛ لطفا مجددا امتحان کنید.",
+    "UnknownError": "در ارسال اطلاعات خطایی رخ داده است!"
+  },
+  "SignUp": {
+    "Title": "ثبت نام در سامانه",
+    "SignUpButton": "ثبت نام",
+    "RepeatPass": "تکرار کلمه عبور",
+    "BackToLogin": "قبلا ثبت نام کرده ام!",
+    "SuccessSignUpTitle": "تبریک, {name}",
+    "SuccessSignUpText": "حساب کاربری با موفقیت ایجاد و لینک فعال سازی به ایمیل شما ارسال شد.",
+    "SuccessVerifyText": "حساب کاربری شما با موفقیت فعال شد."
+  },
+  "User": {
+    "Menu": {
+      "Profile": "حساب کاربری",
+      "Upgrade": "ارتقای حساب",
+      "SignOut": "خروج"
+    },
+    "Name": "نام",
+    "Surname": "نام خانوادگی",
+    "Prefix": "پیشوند",
+    "Gender": "جنسیت",
+    "BirthDate": "تاریخ تولد",
+    "Degree": "مدرک تحصیلی"
+  },
+  "Copyright": {
+    "Title": "حق مالکیت",
+    "Statement": "تمامی حقوق این سامانه متعلق به گروه نرم افزاری {company} می باشد."
+  },
+  "Table": {
+    "labelRowsPerPage": "تعداد سطر در صفحه:",
+    "nextIconButtonText": "صفحه بعد",
+    "labelDisplayedRows": "({ from, to, count }) =>${from}-${to} از ${count !== -1 ? count :more than ${to}}"
+  },
+  "Lexicons": {
+    "PaperStatus": {
+      "researching": "در حال پژوهش",
+      "writing": "در حال نوشتن",
+      "readySubmit": "آماده ارسال",
+      "submitting": "در حال ارسال",
+      "submitted": "ارسال شده",
+      "underReview": "تحت داوری",
+      "underEdit": "در حال ویرایش",
+      "rejected": "رد شده",
+      "accepted": "پذیرفته شده",
+      "canceled": "لغو شده"
+    },
+    "PaperType": {
+      "domesticConf": "کنفرانس داخلی",
+      "foreignConf": "کنفرانس خارجی",
+      "domesticJour": "مجله داخلی",
+      "foreignJour": "مجله خارجی"
+    },
+    "Prefix": {
+      "Prof": "پروفسور",
+      "Dr": "دکتر",
+      "Mr": "آقا",
+      "Ms": "خانم",
+      "Mrs": "خانم",
+      "Miss": "خانم"
+    },
+    "Gender": {
+      "male": "مرد",
+      "female": "زن"
+    },
+    "EduDegree": {
+      "bc_stu": "دانشجوی کارشناسی",
+      "bc": "کارشناسی",
+      "master_stu": "دانشجوی کارشناسی ارشد",
+      "master": "کارشناسی ارشد",
+      "phd_stu": "دانشجوی دکتری",
+      "phd": "دکتری",
+      "postDoc": "فوق دکتری"
+    }
+  }
+}
