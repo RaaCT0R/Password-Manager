@@ -1,0 +1,155 @@
+{
+  "Header": {
+    "Company": "Mahjoo Pardaz",
+    "Home": "Home",
+    "Prices": "Pricing",
+    "Dashboard": "Dashboard",
+    "Login": "Login"
+  },
+  "Home": {
+    "Title": "Paper Management System",
+    "Subtitle": "Manage your researches and papers",
+    "SignUp": "Sign up now"
+  },
+  "Dashboard": {
+    "Main": {
+      "Title": "Dashboard"
+    },
+    "Paper": {
+      "Title": "Edit Paper",
+      "TitleNew": "Add New Paper",
+      "ShortTitleNew": "New Paper",
+      "RecentPapers": "Recent Papers",
+      "FullPaperListLink": "Show full list of papers",
+      "NoPaper": "There is no paper!",
+      "PaperTitle": "Paper Title",
+      "PaperKeywords": "Paper Keywords",
+      "PaperCode": "Paper Code",
+      "PaperType": "Paper Type",
+      "Types": {
+        "domesticConf": "Domestic Conference",
+        "foreignConf": "Foreign  Conference",
+        "domesticJour": "domestic Journal",
+        "foreignJour": "Foreign Journal"
+      },
+      "PaperDescription": "Description",
+      "Publisher": "Journal/Conference",
+      "Status": "Status",
+      "Date": "Date",
+      "Info": "Paper Information",
+      "Authors": "Authors",
+      "AuthorsList": "Authors list",
+      "Search": "Search",
+      "SearchAuthors": "Search by name or email address",
+      "History": "History",
+      "SuccessAddPaper": "New paper added successfully.",
+      "ShowPaperLink": "Show paper",
+      "SuccessEditPaper": "Paper edited successfully."
+    },
+    "PapersList": {
+      "Title": "Papers List"
+    }
+  },
+  "Profile": {
+    "Edit": "Edit profile",
+    "ChangePass": "Change password",
+    "Upgrade" : "Upgrade account",
+    "NewPass": "New Password",
+    "RepeatNewPass": "RepeatNew Password",
+    "OldPass": "Old Password",
+    "SuccessEditProfile": "Profile edited successfully."
+  },
+  "Action": {
+    "Add": "Add",
+    "Edit": "Edit",
+    "New": "New",
+    "Selected": "selected",
+    "Cancel": "Cancel",
+    "Save": "Save",
+    "LoadingData": "Loading data...",
+    "RequiredFieldsError": "Fill all required fields!"
+  },
+  "Login": {
+    "Title": "Login",
+    "Email": "Email",
+    "Password": "Password",
+    "LoginButton": "Sign in",
+    "Remember": "Remember me",
+    "SignUp": "Don't have an account? Sign Up",
+    "ResetPassword": "Forgot password?",
+    "AuthError": "Credentials not recognised. Please try again",
+    "UnknownError": "There was an error submitting your details."
+  },
+  "SignUp": {
+    "Title": "Sign up",
+    "SignUpButton": "Sign up",
+    "RepeatPass": "Repeat Password",
+    "BackToLogin": "I have an account! Back to login",
+    "SuccessSignUpTitle": "Thanks for signing up, {name}",
+    "SuccessSignUpText": "Your account has been successfully created. Check your email to verify your email address and complete your registration.",
+    "SuccessVerifyText": "Your account has been successfully activated."
+  },
+  "User": {
+    "Menu": {
+      "Profile": "Profile",
+      "Upgrade": "Upgrade account",
+      "SignOut": "Sign out"
+    },
+    "Name": "First name",
+    "Surname": "Last name",
+    "Prefix": "Prefix",
+    "Gender": "Gender",
+    "BirthDate": "Birth date",
+    "Degree": "Education degree"
+  },
+  "Copyright": {
+    "Title": "Copyright",
+    "Statement": "All rights reserved."
+  },
+  "Table": {
+    "labelRowsPerPage": "Rows per page:",
+    "nextIconButtonText": "Next page",
+    "labelDisplayedRows": "({ from, to, count }) =>${from}-${to} of ${count !== -1 ? count :more than ${to}}"
+  },
+  "Lexicons": {
+    "PaperStatus": {
+      "researching": "Researching",
+      "writing": "Writing",
+      "readySubmit": "Ready to Submit",
+      "submitting": "Submitting",
+      "submitted": "Submitted",
+      "underReview": "Under Review",
+      "underEdit": "Under Edit",
+      "rejected": "Rejected",
+      "accepted": "Accepted",
+      "canceled": "Canceled"
+    },
+    "PaperType": {
+      "domesticConf": "Domestic Conference",
+      "foreignConf": "Foreign  Conference",
+      "domesticJour": "domestic Journal",
+      "foreignJour": "Foreign Journal"
+    },
+    "Prefix": {
+      "Prof": "Prof",
+      "Dr": "Dr",
+      "Mr": "Mr",
+      "Ms": "Ms",
+      "Mrs": "Mrs",
+      "Miss": "Miss"
+    },
+    "Gender": {
+      "male": "Male",
+      "female": "Female"
+    },
+    "EduDegree": {
+      "bc_stu": "BC student",
+      "bc": "BC",
+      "master_stu": "Master student",
+      "master": "Master",
+      "phd_stu": "PhD student",
+      "phd": "PhD",
+      "postDoc": "Post doc"
+    }
+  }
+}
